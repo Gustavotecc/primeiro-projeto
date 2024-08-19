@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "primeiro-projeto",
+			"path": "."
+		},
+		{
+			"name": "imagens",
+			"path": "../imagens"
+		}
+	],
+	"settings": {}
+}
